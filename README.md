@@ -1,3 +1,15 @@
+<div align="center">
+
+# ⚠️ THIS REPOSITORY IS ARCHIVED ⚠️
+
+# ➡️ Active development has moved to [**gantasmo/theDAW**](https://github.com/gantasmo/theDAW)
+
+### This mirror is read-only and no longer maintained. All current work, releases, and issues live at [github.com/gantasmo/theDAW](https://github.com/gantasmo/theDAW).
+
+</div>
+
+---
+
 # theDAW
 
 **by GANTASMO**
